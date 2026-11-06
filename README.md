@@ -22,7 +22,7 @@ The primary objective of this project is to build a robust predictive regression
 
 ## How to Run Locally
 
-**1. Clone the repository and Install dependencies
+**1. Clone the repository and Install dependencies***
 ```bash 
 git clone https://github.com/23f2004586/iitm-mlp-project.git
 pip install pandas numpy scikit-learn lightgbm matplotlib seaborn
